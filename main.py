@@ -3,7 +3,7 @@ from urllib.request import urlopen
 import pandas as pd
 
 
-#this program is gonna take like an hour to run, so just don't run it. I compiled the csv files on my computer, and it took like 20 minutes / file. If you wanna see the raw data, click on the ".csv" files to the left
+#due to the sheer volume of posts on the forum, this program is gonna take like an hour to run, so just don't run it. I compiled the csv files on my computer, and it took like 20 minutes / file. If you wanna see the raw data, click on the ".csv" files to the left
 
 #will add more as my program finishes running
 
